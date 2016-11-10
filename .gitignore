@@ -26,3 +26,11 @@
 ._style.css
 
 ._test-page.html
+
+css/.__normalized-reset.css
+
+css/.__normalized-reset.map
+
+sass/.__general.css
+
+sass/.__normalized-reset.scss
